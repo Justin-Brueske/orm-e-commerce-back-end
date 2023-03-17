@@ -12,7 +12,7 @@ This project uses Express and Sequelize to read, store and delete information in
 # Links
 [Code Repository](https://github.com/Justin-Brueske/orm-e-commerce-back-end)
 
-[Video](./assets/employeetracker.mp4)
+[Video](./assets/orm%20e-commerce.mp4)
 
 # Usage
 
